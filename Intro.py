@@ -1,3 +1,3 @@
-import streamlit as sl
+import streamlit as st
 
-st,title("Mi primera app interactiva")
+st.title("Mi primera app interactiva")
